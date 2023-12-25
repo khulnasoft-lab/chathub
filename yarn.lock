@@ -1683,9 +1683,9 @@ __metadata:
   linkType: hard
 
 "@types/md5@npm:^2.3.4":
-  version: 2.3.4
-  resolution: "@types/md5@npm:2.3.4"
-  checksum: a9533e584474becb3cdf82fa9cee727ed3d8ddfdf2725e5361cc6d3608d9aa0c9acfb1cef123dfb5ed9d2d1bb241f357cf8f68fffac971a6fb37cfd8089d0373
+  version: 2.3.5
+  resolution: "@types/md5@npm:2.3.5"
+  checksum: aef9c40ab0ec61f1ae2acb04ee04e55b99eeec64af58176ef36d4feaf6aac335f32caca07eca0e3a1813fc362bf0b8663423250e24b39ebcfdc24c6ca4abe1cf
   languageName: node
   linkType: hard
 
