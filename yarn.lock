@@ -1833,9 +1833,9 @@ __metadata:
   linkType: hard
 
 "@types/webextension-polyfill@npm:^0.10.5":
-  version: 0.10.5
-  resolution: "@types/webextension-polyfill@npm:0.10.5"
-  checksum: 3c45d27e29d4bfe65eff1f6b138c945c2f9b031de49ea17b44290d4368eef52f6090a8f2bc3a1b30120e67cddcb4304bf127255e315eeab4aee61926506023e9
+  version: 0.10.7
+  resolution: "@types/webextension-polyfill@npm:0.10.7"
+  checksum: 78f9153398172b66db74e02202146e078b9c8fe30a283f52e7ab58021fdb4d18be74555142ec83b878f9d05d98a0296ffbef8287aedd411d9503025fe8ddba36
   languageName: node
   linkType: hard
 
