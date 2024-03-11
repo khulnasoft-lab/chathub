@@ -330,6 +330,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@babel/runtime@npm:^7.23.9":
+  version: 7.24.0
+  resolution: "@babel/runtime@npm:7.24.0"
+  dependencies:
+    regenerator-runtime: "npm:^0.14.0"
+  checksum: 3495eed727bf4a4f84c35bb51ab53317ae38f4bbc3b1d0a8303751f9dfa0ce6f5fb2afced72b76c3dd0d8bb2ccb84787559a4dee9886291a36b26f02f0f759b4
+  languageName: node
+  linkType: hard
+
 "@babel/runtime@npm:^7.3.1, @babel/runtime@npm:^7.8.3":
   version: 7.22.10
   resolution: "@babel/runtime@npm:7.22.10"
@@ -2587,7 +2596,7 @@ __metadata:
     react-copy-to-clipboard: "npm:^5.1.0"
     react-dom: "npm:^18.2.0"
     react-hot-toast: "npm:^2.4.1"
-    react-i18next: "npm:^13.3.1"
+    react-i18next: "npm:^14.1.0"
     react-icons: "npm:^4.11.0"
     react-markdown: "npm:^9.0.1"
     react-node-to-string: "npm:^0.1.2"
@@ -7209,11 +7218,11 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-i18next@npm:^13.3.1":
-  version: 13.3.1
-  resolution: "react-i18next@npm:13.3.1"
+"react-i18next@npm:^14.1.0":
+  version: 14.1.0
+  resolution: "react-i18next@npm:14.1.0"
   dependencies:
-    "@babel/runtime": "npm:^7.22.5"
+    "@babel/runtime": "npm:^7.23.9"
     html-parse-stringify: "npm:^3.0.1"
   peerDependencies:
     i18next: ">= 23.2.3"
@@ -7223,7 +7232,7 @@ __metadata:
       optional: true
     react-native:
       optional: true
-  checksum: a19701359ac8ae1c75c68012215c024fd6c896c86e2f254c43a135279afb2035ed3b37c9f07ae2662fa1e44e36b3de918287ebecf841dd1bce6ecaba3a055fc4
+  checksum: d3e2d1e5183068a7a23f2fefc432d61546baef0afef176929a1a7b33489e5b3a2a892745a4424327c4bd3ab02ee3a6a4e450b57c2598393032a1efdbe57f8841
   languageName: node
   linkType: hard
 
